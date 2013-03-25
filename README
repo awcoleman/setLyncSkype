@@ -1,0 +1,6 @@
+setLyncSkype
+
+A powershell script to set both Lync and Skype windows client status to Online or Away.
+
+(c) awcoleman 2013
+See LICENSE file for license.
